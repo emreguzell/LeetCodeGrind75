@@ -7,8 +7,6 @@ namespace LeetCodeGrind75
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
-
             // Call the test method for the TwoSum problem
             Solution_001.TestTwoSum();
         }
