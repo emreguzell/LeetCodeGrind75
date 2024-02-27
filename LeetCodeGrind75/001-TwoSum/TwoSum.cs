@@ -18,22 +18,22 @@
             return new int[] { };
         }
 
-        public static void TestTwoSum()
-        {
-            var solution = new Solution_001();
-            int[] nums = { 2, 7, 11, 15 };
-            int target = 9;
-            int[] result = solution.TwoSum(nums, target);
+        //public static void TestTwoSum()
+        //{
+        //    var solution = new Solution_001();
+        //    int[] nums = { 2, 7, 11, 15 };
+        //    int target = 9;
+        //    int[] result = solution.TwoSum(nums, target);
 
-            Console.WriteLine($"Testing TwoSum with nums: [{string.Join(", ", nums)}] and target: {target}");
-            if (result.Length > 0)
-            {
-                Console.WriteLine($"Result: Indices {result[0]} and {result[1]} add up to {target}");
-            }
-            else
-            {
-                Console.WriteLine("No solution found.");
-            }
-        }
+        //    Console.WriteLine($"Testing TwoSum with nums: [{string.Join(", ", nums)}] and target: {target}");
+        //    if (result.Length > 0)
+        //    {
+        //        Console.WriteLine($"Result: Indices {result[0]} and {result[1]} add up to {target}");
+        //    }
+        //    else
+        //    {
+        //        Console.WriteLine("No solution found.");
+        //    }
+        //}
     }
 }
