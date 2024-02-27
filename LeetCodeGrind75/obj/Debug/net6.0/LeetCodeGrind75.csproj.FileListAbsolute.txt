@@ -1,0 +1,14 @@
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\bin\Debug\net6.0\LeetCodeGrind75.exe
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\bin\Debug\net6.0\LeetCodeGrind75.deps.json
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\bin\Debug\net6.0\LeetCodeGrind75.runtimeconfig.json
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\bin\Debug\net6.0\LeetCodeGrind75.dll
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\bin\Debug\net6.0\LeetCodeGrind75.pdb
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.AssemblyInfoInputs.cache
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.AssemblyInfo.cs
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.csproj.CoreCompileInputs.cache
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.dll
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\refint\LeetCodeGrind75.dll
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.pdb
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\LeetCodeGrind75.genruntimeconfig.cache
+C:\Users\eguzel9\Desktop\Emre\Projeler\LeetCodeGrind75\obj\Debug\net6.0\ref\LeetCodeGrind75.dll
